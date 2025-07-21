@@ -5,13 +5,12 @@ author_profile: true
 
 ## Experience
 
-<p>
-- **[GIS Intern – CityWorks](/experience/gis-intern/)**  
-  Developed a sewer network plugin for QGIS using Python and PyQGIS. Conducted spatial data analysis for urban infrastructure planning.
+### - **[GIS Intern – CityWorks](/experience/gis-intern/)**  
+###   Developed a sewer network plugin for QGIS using Python and PyQGIS. Conducted spatial data analysis for urban infrastructure planning.
 
-- **[Teaching Assistant – GIS Course](/experience/ta-gis/)**  
-  Assisted students with assignments, grading, and Python-based spatial analysis labs.
-</p>
+### - **[Teaching Assistant – GIS Course](/experience/ta-gis/)**  
+###   Assisted students with assignments, grading, and Python-based spatial analysis labs.
+
 ---
 
 ## Projects
