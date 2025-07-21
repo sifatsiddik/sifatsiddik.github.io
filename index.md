@@ -3,36 +3,60 @@ layout: home
 author_profile: true
 ---
 
-## Welcome
+## Experience
 
-This is a personal portfolio showcasing selected work from my academic, professional and personal projects, with a focus on hydrology, programming and GIS.
+- **[GIS Intern – CityWorks](/experience/gis-intern/)**  
+  Developed a sewer network plugin for QGIS using Python and PyQGIS. Conducted spatial data analysis for urban infrastructure planning.
+
+- **[Teaching Assistant – GIS Course](/experience/ta-gis/)**  
+  Assisted students with assignments, grading, and Python-based spatial analysis labs.
 
 ---
 
 ## Projects
 
-- **[OG.FLUSH – QGIS Plugin for Sewer Networks](/projects/ogflush/)**  
-  Generate and simulate sewer networks in QGIS. [GitHub ↗](https://github.com/yourusername/og_flush)
+These include selected coursework and personal initiatives with real-world applications in urban planning, GIS, and data science.
+
+- **[OG.FLUSH – QGIS Plugin](/projects/ogflush/)**  
+  Automates sewer network generation using geospatial rules and dynamic topology handling. [GitHub ↗](https://github.com/yourusername/og_flush)
 
 - **[Population Density Visualizer](/projects/popdensity/)**  
-  Interactive map and analysis tool for exploring population density using open data.
+  Interactive choropleth mapping of population data with dynamic filtering. Developed using QGIS, Python, and open data sources.
+
+- **[Walkability Index Calculator](/projects/walkability/)**  
+  Academic project assessing pedestrian infrastructure across neighborhoods using GIS datasets and spatial scoring algorithms.
 
 ---
 
-## Work Experience
+## My Toolkit
 
-- **[GIS Intern – CityWorks](/experience/gis-intern/)**  
-  Developed custom automation tools in Python and QGIS for urban infrastructure.
-
-- **[Teaching Assistant – GIS Course](/experience/ta-gis/)**  
-  Assisted undergrad students with spatial analysis assignments and Python scripts.
+🗺️ QGIS, ArcGIS, AutoCAD  
+💻 Python, Git, Bash, Markdown  
+📊 Spatial Analysis, Leaflet, HTML/CSS  
+📦 Data cleaning, plugin development, reproducible research
 
 ---
 
 ## Education
 
-- **Bachelor of Urban Planning, XYZ University**  
-  Specialized in geoinformatics, urban systems, and spatial data visualization.
+**Bachelor of Urban Planning, XYZ University (2023)**  
+Specialized in geoinformatics, spatial analytics, and urban infrastructure systems.
+
+---
+
+## Publications
+
+Peer-reviewed research contributions in geospatial planning and environmental modeling.  
+➡️ [See full list of publications](/publications)
+
+---
+
+## Highlights & Involvement
+
+- 🎓 Recipient of [Name] Scholarship for academic excellence, 2022  
+- 🎤 Speaker – National Urban Data Conference, 2023  
+- 🛠️ Trainings: QGIS Advanced Tools, ESA Satellite Data Workshop  
+- 🧵 Interests: Folk music, spicy food, maps, and pattern-seeking
 
 ---
 
