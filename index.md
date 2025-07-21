@@ -7,11 +7,12 @@ author_profile: true
 
 ## Experience
 
-### - **[GIS Intern – CityWorks](/experience/gis-intern/)**  
-###   Developed a sewer network plugin for QGIS using Python and PyQGIS. Conducted spatial data analysis for urban infrastructure planning.
+- **Experience 1**  
+  Description  
+  [Developed a sewer network plugin for QGIS using Python and PyQGIS. Conducted spatial data analysis for urban infrastructure planning.]
 
-### - **[Teaching Assistant – GIS Course](/experience/ta-gis/)**  
-###   Assisted students with assignments, grading, and Python-based spatial analysis labs.
+- **Experience 2**  
+  Description  
 
 ---
 
@@ -19,23 +20,22 @@ author_profile: true
 
 These include selected coursework and personal initiatives with real-world applications in urban planning, GIS, and data science.
 
-- **[OG.FLUSH – QGIS Plugin](/projects/ogflush/)**  
-  Automates sewer network generation using geospatial rules and dynamic topology handling. [GitHub ↗](https://github.com/yourusername/og_flush)
+- **Project 1**  
+  Description  
 
-- **[Population Density Visualizer](/projects/popdensity/)**  
-  Interactive choropleth mapping of population data with dynamic filtering. Developed using QGIS, Python, and open data sources.
+- **Project 2**  
+  Description  
 
-- **[Walkability Index Calculator](/projects/walkability/)**  
-  Academic project assessing pedestrian infrastructure across neighborhoods using GIS datasets and spatial scoring algorithms.
+- **Project 3**  
+  Description  
 
 ---
 
 ## My Toolkit
 
-🗺️ QGIS, ArcGIS, AutoCAD  
+🗺️ QGIS, ArcGIS, Spatial Analysis  
 💻 Python, Git, Bash, Markdown  
-📊 Spatial Analysis, Leaflet, HTML/CSS  
-📦 Data cleaning, plugin development, reproducible research
+📊 Data cleaning, plugin development, reproducible research
 
 ---
 
