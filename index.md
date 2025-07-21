@@ -41,8 +41,8 @@ These include selected coursework and personal initiatives with real-world appli
 
 ## Education
 
-**Bachelor of Urban Planning, XYZ University (2023)**  
-Specialized in geoinformatics, spatial analytics, and urban infrastructure systems.
+**Education 1**  
+Description  
 
 ---
 
@@ -55,14 +55,12 @@ Peer-reviewed research contributions in geospatial planning and environmental mo
 
 ## Highlights & Involvement
 
-- 🎓 Recipient of [Name] Scholarship for academic excellence, 2022  
-- 🎤 Speaker – National Urban Data Conference, 2023  
-- 🛠️ Trainings: QGIS Advanced Tools, ESA Satellite Data Workshop  
-- 🧵 Interests: Folk music, spicy food, maps, and pattern-seeking
+- 🎓 Recipient of Scholarship  
+- 🎤 Conferences:   
+- 🛠️ Trainings:   
 
 ---
 
 ## Contact
 
-📧 your.email@example.com  
-🔗 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/your-link)
+
