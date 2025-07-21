@@ -21,8 +21,8 @@ title                    : "Sifat's E-Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Md Sifat Siddik"
-description              : "Water Modelling"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A portfolio of selected academic and personal projects in hydrology, programming and more..."
+url                      : https://sifatsiddik.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Md Sifat Siddik"
   avatar           : # "/assets/images/bio.jpg"
-  bio              : "Water Modeller<br>Python Programmer<br>GIS Developer<br>Environmental Engineer<br>Workflow Automation Enthusiast"
+  bio              : "Water Modeller<br>Python Programmer<br>GIS & Remote Sensing Enthusiast<br>Environmental Engineer<br>"
   location         : "Dresden, Germany"
   email            :
   links:
