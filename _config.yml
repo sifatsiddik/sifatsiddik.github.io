@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Md Sifat Siddik"
-  avatar           : "/assets/images/bio.jpg"
+  avatar           : # "/assets/images/bio.jpg"
   bio              : "Water Modeller. Python Programmer. GIS Developer. Workflow Automation Enthusiast."
   location         : "Dresden, Germany"
   email            :
