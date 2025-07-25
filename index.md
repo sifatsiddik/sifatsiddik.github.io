@@ -1,6 +1,7 @@
 ---
 layout: home
 author_profile: true
+classes: wide
 custom_css:
   - "/assets/css/custom.scss"
 title: ""
