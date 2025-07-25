@@ -6,7 +6,7 @@ title: null
 
 ## About Me
 
-I’m a water engineering and management professional with hands-on experience and a practical, solution-oriented mindset. I’m passionate about harnessing modeling, programming, GIS and data tools to drive efficiency, automate workflows, and tackle the pressing water challenges of today, and those on the horizon.
+I’m a water engineering and management professional with hands-on experience and a practical, solution-oriented mindset. I’m passionate about harnessing modeling, programming, GIS and data tools to drive efficiency, automate workflows and tackle the pressing water challenges of today, and those on the horizon.
 
 
 ## Experience
