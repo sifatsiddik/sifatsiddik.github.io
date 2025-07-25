@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+custom_css:
+  - "/assets/css/custom.scss"
 title: ""
 header:
   overlay: false
