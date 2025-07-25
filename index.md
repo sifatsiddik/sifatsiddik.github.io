@@ -1,5 +1,11 @@
 ---
 layout: home
+author_profile: true
+title: ""
+header:
+  overlay: false
+  show_overlay_excerpt: false
+  show_title: false
 ---
 
 
