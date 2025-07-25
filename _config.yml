@@ -324,4 +324,4 @@ defaults:
       related: true
       classes: wide
       custom_css:
-        - "/assets/css/custom.css"
+        - "/assets/css/custom.scss"
