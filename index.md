@@ -1,11 +1,5 @@
 ---
 layout: single
-author_profile: true
-title: ""
-header:
-  overlay: false
-  show_overlay_excerpt: false
-  show_title: false
 ---
 
 
@@ -23,7 +17,7 @@ I’m a water engineering and management professional with hands-on experience a
 - **Experience 2**  
   Description  
 
----
+
 
 ## Projects
 
@@ -38,7 +32,7 @@ These include selected coursework and personal initiatives with real-world appli
 - **Project 3**  
   Description  
 
----
+
 
 ## My Toolkit
 
@@ -46,21 +40,21 @@ These include selected coursework and personal initiatives with real-world appli
 💻 Python, Git, Bash, Markdown  
 📊 Data cleaning, plugin development, reproducible research
 
----
+
 
 ## Education
 
 **Education 1**  
 Description  
 
----
+
 
 ## Publications
 
 Peer-reviewed research contributions in geospatial planning and environmental modeling.  
 ➡️ [See full list of publications](/publications)
 
----
+
 
 ## Highlights & Involvement
 
@@ -68,7 +62,7 @@ Peer-reviewed research contributions in geospatial planning and environmental mo
 - 🎤 Conferences:   
 - 🛠️ Trainings:   
 
----
+
 
 ## Contact
 
