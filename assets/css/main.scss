@@ -32,7 +32,7 @@ html {
   }
 
   @include breakpoint($medium) {
-    font-size: 15px; // change to whatever
+    font-size: 12px; // change to whatever
   }
 
   @include breakpoint($large) {
