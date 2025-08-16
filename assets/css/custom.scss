@@ -14,10 +14,19 @@
 .project-tile {
   padding: 1rem;
   border-radius: 12px;
-  background: rgba(255, 255, 255, 0.85); // transparent feel
+  background: #f9f9f9; // light solid background
   box-shadow: 0 2px 6px rgba(0,0,0,0.15);
   text-align: center;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-tile img {
+  width: 200px;        // fixed image width
+  max-width: 100%;     // don’t overflow small screens
+  height: auto;        // keeps proportions
+  margin: 0 auto 1rem; // centers + adds bottom spacing
+  display: block;
+}
 
   &:hover {
     transform: translateY(-4px);
