@@ -18,8 +18,7 @@ I’m a water engineering and management professional with hands-on experience a
 
 
 ## Projects
-
-These include selected coursework and personal initiatives with real-world applications in urban planning, GIS, and data science.
+These include selected projects from work and courses. Click on them to find more details.
 
 <div class="projects-grid">
 
