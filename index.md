@@ -21,18 +21,13 @@ I’m a water engineering and management professional with hands-on experience a
 These include selected projects from work and courses. Click on them to find more details.
 
 <div class="projects-grid">
-
   <div class="project-tile">
-    <a href="/projects/og-flush/">
-      <img src="/assets/images/excellent.gif" alt="OG.FLUSH">
-      <h3>OG.FLUSH – Sewer Network Generator for QGIS</h3>
-      <p>A QGIS plugin that automates sewer layout design with Python and GIS workflows.</p>
-    </a>
+    <h3><a href="/projects/project1.html">OG.FLUSH</a></h3>
+    <p>A QGIS plugin to design urban sewer network from open-access data.</p>
+    <img src="/assets/images/exellent.gif" alt="Water Network Simulation">
   </div>
 
-
 </div>
-
 
 
 
